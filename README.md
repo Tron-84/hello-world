@@ -1,3 +1,3 @@
 # hello-world
-First trashy repository
+First trashy repository //
 þetta er breytt skrá
